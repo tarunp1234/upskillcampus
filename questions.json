@@ -1,0 +1,127 @@
+{
+  "questions": [
+    {
+      "category": "General",
+      "question": "What is the capital of India?",
+      "options": ["A. Mumbai", "B. Delhi", "C. Kolkata", "D. Chennai"],
+      "answer": "B"
+    },
+    {
+      "category": "Programming",
+      "question": "Which language is best for AI?",
+      "options": ["A. Python", "B. HTML", "C. CSS", "D. C"],
+      "answer": "A"
+    },
+    {
+      "category": "General",
+      "question": "Who developed Python?",
+      "options": ["A. Elon Musk", "B. Bill Gates", "C. Guido van Rossum", "D. Mark Zuckerberg"],
+      "answer": "C"
+    },
+    {
+      "category": "Math",
+      "question": "What is 10 × 2?",
+      "options": ["A. 10", "B. 20", "C. 15", "D. 25"],
+      "answer": "B"
+    },
+
+    {
+      "category": "General",
+      "question": "Which is the largest ocean?",
+      "options": ["A. Atlantic", "B. Indian", "C. Pacific", "D. Arctic"],
+      "answer": "C"
+    },
+    {
+      "category": "General",
+      "question": "Which country invented pizza?",
+      "options": ["A. India", "B. Italy", "C. USA", "D. France"],
+      "answer": "B"
+    },
+    {
+      "category": "Math",
+      "question": "What is 5 + 7?",
+      "options": ["A. 10", "B. 11", "C. 12", "D. 13"],
+      "answer": "C"
+    },
+    {
+      "category": "Math",
+      "question": "Square of 6 is?",
+      "options": ["A. 12", "B. 36", "C. 18", "D. 30"],
+      "answer": "B"
+    },
+    {
+      "category": "Programming",
+      "question": "Which symbol is used for comments in Python?",
+      "options": ["A. //", "B. <!-- -->", "C. #", "D. **"],
+      "answer": "C"
+    },
+    {
+      "category": "Programming",
+      "question": "Which data type stores text?",
+      "options": ["A. int", "B. float", "C. str", "D. bool"],
+      "answer": "C"
+    },
+
+    {
+      "category": "General",
+      "question": "Who is known as Father of Computer?",
+      "options": ["A. Newton", "B. Charles Babbage", "C. Tesla", "D. Einstein"],
+      "answer": "B"
+    },
+    {
+      "category": "General",
+      "question": "Which planet is called Red Planet?",
+      "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Venus"],
+      "answer": "B"
+    },
+    {
+      "category": "Math",
+      "question": "What is 15 ÷ 3?",
+      "options": ["A. 3", "B. 4", "C. 5", "D. 6"],
+      "answer": "C"
+    },
+    {
+      "category": "Math",
+      "question": "What is 9 × 9?",
+      "options": ["A. 72", "B. 81", "C. 99", "D. 90"],
+      "answer": "B"
+    },
+    {
+      "category": "Programming",
+      "question": "Which keyword is used for function in Python?",
+      "options": ["A. func", "B. define", "C. def", "D. function"],
+      "answer": "C"
+    },
+    {
+      "category": "Programming",
+      "question": "Which loop is used for iteration?",
+      "options": ["A. for", "B. loop", "C. iterate", "D. repeat"],
+      "answer": "A"
+    },
+
+    {
+      "category": "General",
+      "question": "National animal of India?",
+      "options": ["A. Lion", "B. Tiger", "C. Elephant", "D. Cow"],
+      "answer": "B"
+    },
+    {
+      "category": "General",
+      "question": "Which gas do humans breathe in?",
+      "options": ["A. Oxygen", "B. Carbon dioxide", "C. Nitrogen", "D. Hydrogen"],
+      "answer": "A"
+    },
+    {
+      "category": "Math",
+      "question": "What is 100 - 45?",
+      "options": ["A. 45", "B. 55", "C. 65", "D. 35"],
+      "answer": "B"
+    },
+    {
+      "category": "Programming",
+      "question": "Which operator is used for addition?",
+      "options": ["A. -", "B. *", "C. +", "D. /"],
+      "answer": "C"
+    }
+  ]
+}
